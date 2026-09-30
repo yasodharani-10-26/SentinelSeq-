@@ -1,0 +1,6 @@
+{
+  "name": "SentinelSeq - AI Network Attack Forecasting",
+  "description": "Temporal AI-driven cybersecurity system that models network traffic sequence over time to forecast cyberattack progression, calculate confidence, and provide explainable early warnings for SOC analysts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
